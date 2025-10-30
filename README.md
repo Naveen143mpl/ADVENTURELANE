@@ -1,4 +1,7 @@
-# BookIt: Experiences & Slots
+# ADVENTURELANE
+>>>>>>> 142d2857e2396c8a181e29a4e25d622bd0246876
+=======
+# ADVENTURELANE
 
 A complete fullstack travel experiences booking platform built with React, TypeScript, TailwindCSS, and Lovable Cloud (powered by Supabase).
 
@@ -277,3 +280,6 @@ This project was created as part of a technical assessment.
 ---
 
 Built with ❤️ using Lovable
+=======
+# ADVENTURELANE
+>>>>>>> 142d2857e2396c8a181e29a4e25d622bd0246876
